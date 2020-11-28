@@ -1,0 +1,1 @@
+if you are using gmail account for sending email then don't forgot to enable "allow less secure apps" option from setting menu under gmail account.
