@@ -3,7 +3,7 @@ function sendmail()
 {
     $("#send_massage").css("display","block");
     $.ajax({
-        url:"Email/swiftmailer_email.php",
+        url:"https://mfpensionworld.in/wp-admin/Email/swiftmailer_email.php",
         type:"POST",
         async:true,
         data: $("#form_data").serialize(),
